@@ -25,3 +25,6 @@ dist-ssr
 
 # windsurf 
 /.windsurf
+
+.env 
+prd.md
